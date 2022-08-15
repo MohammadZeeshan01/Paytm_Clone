@@ -6,7 +6,7 @@
 
 
 
-## Paytm UI Clone (FULLY Responsive) [Live Link](https://paytm-clone-byzeeshan.netlify.app/)
+## Paytm Clone  Responsive [Live Link](https://paytm-clone-byzeeshan.netlify.app/)
 
 #### Screenshot
 
